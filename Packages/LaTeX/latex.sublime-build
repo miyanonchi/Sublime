@@ -1,0 +1,12 @@
+{
+    "cmd": ["latexmk", "-pv", "main.tex"],
+    "selector": "text.tex.latex",
+    "encoding": "cp932",
+
+    "variants": [
+        {
+            "cmd": ["rm", "*.synctex.gz", "*.aux", "*.dvi", "*.toc", "*.lof", "*.lot", "*.tok", "*.fdb_latexmk", "*.fls", "*.log"],
+            "name": "Clean project exclude pdf file."
+        }
+    ]
+}

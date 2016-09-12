@@ -1,0 +1,33 @@
+<snippet>
+    <content><![CDATA[\\documentclass[a4j,titlepage]{jarticle}
+
+\\usepackage[dvipdfmx]{graphicx}
+\\usepackage{ascmac}
+\\usepackage{url}
+\\usepackage{float}
+
+\\title{${1:report title}}
+\\author{${2:your name}}
+\\date{${3:\\today}}
+
+\\begin{document}
+\\maketitle
+%% 目次をつける場合
+%\\tableofcontents
+%\\clearpage
+
+\\section{${5:section name}}
+$0
+
+\\subsection{${6:subsection name}}
+
+
+\\begin{thebibliography}{9}
+\\bibitem{dummy} dummy
+\\end{thebibliography}
+
+\\end{document}]]></content>
+    <tabTrigger>report</tabTrigger>
+    <scope>text.tex.latex</scope>
+    <description>Standard report template</description>
+</snippet>

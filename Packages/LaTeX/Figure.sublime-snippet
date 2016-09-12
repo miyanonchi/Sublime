@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[\begin{figure}[${1:H}]
+\centering
+\includegraphics[${2:width=100mm}]{${3:fig1.eps}}
+\caption{${4:caption}}
+\label{${5:label}}
+\end{figure}]]></content>
+    <tabTrigger>figure</tabTrigger>
+    <scope>text.tex.latex</scope>
+    <description>Figure</description>
+</snippet>

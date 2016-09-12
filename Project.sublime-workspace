@@ -1,0 +1,1090 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"line",
+				"lineorbyte"
+			],
+			[
+				"signall",
+				"signalingChannel"
+			],
+			[
+				"XH",
+				"XMLHttpRequestCreate"
+			],
+			[
+				"print",
+				"printCGIHeader"
+			],
+			[
+				"la",
+				"lang_id"
+			],
+			[
+				"fir",
+				"firstElementChild"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fi",
+				"firstElementChild"
+			],
+			[
+				"firs",
+				"firstElementChild"
+			],
+			[
+				"_",
+				"_STEP_"
+			],
+			[
+				"Get_",
+				"Get_ID3"
+			],
+			[
+				"sec",
+				"sec	Section"
+			],
+			[
+				"add",
+				"addY"
+			],
+			[
+				"rec",
+				"rec_color"
+			],
+			[
+				"bin",
+				"bin_img"
+			],
+			[
+				"start",
+				"startScene"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"sca",
+				"scaleX"
+			],
+			[
+				"wi",
+				"Width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/takumi/Dropbox/anime",
+			"settings":
+			{
+				"buffer_size": 2614,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/takumi/Dropbox/Program/stub.cpp",
+			"settings":
+			{
+				"buffer_size": 279,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Norton Remove Tool\nシステムの復元ポイント\nRocket Dock\n\n/html[1]/body[1]/div[6]/div[3]/div[6]/div[2]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/ol[1]/div[2]/li/div[1]/h3[1]/a[1]/@href\n\nhttp://www.foolmaker.net/game/h/bloodyrondo.html\nhttps://www.google.co.jp/search?q=%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%AA%E3%82%AA+%E3%83%B4%E3%82%A7%E3%83%B3%E3%83%87%E3%83%83%E3%82%BF+%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF+%E6%AD%BB%E6%83%B3%E6%81%8B%E6%AD%8C&ie=utf-8&oe=utf-8&gws_rd=cr&ei=Sh1rVcyQDMmE8gXproGwAw\nhttp://d.hatena.ne.jp/taiyakisun/20120707/1341649886\n\nhttp://pan.baidu.com/wap/share/home?uk=1061570&third=0\nhttp://pan.baidu.com/wap/link?shareid=3734511984&uk=1061570&third=0&dir=%2FFiles%2F%E8%BF%B7%E3%81%88%E3%82%8B2%E4%BA%BA%E3%81%A8%E3%82%BB%E3%82%AB%E3%82%A4%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6&page=1\n\nhttp://pan.baidu.com/wap/link?shareid=827966034&uk=1061570&third=0&dir=%2FFiles%2F3D%E5%AE%9A%E5%88%B6%E5%A5%B3%E4%BB%86&page=1&\nhttp://pan.baidu.com/wap/link?shareid=3739958020&uk=1160762729&third=0&dir=%2F4546963%2FGame&page=1&\nhttp://www.nextwap.net/rar/bVSSnE1o/_18__20040130_fatestay_night_d.html\n\n",
+			"settings":
+			{
+				"buffer_size": 1187,
+				"line_ending": "Windows",
+				"name": "Norton Remove Tool"
+			}
+		},
+		{
+			"file": "/C/Users/takumi/Dropbox/Program/Tlang言語仕様.txt",
+			"settings":
+			{
+				"buffer_size": 266,
+				"line_ending": "Windows",
+				"name": "Tlang言語仕様"
+			}
+		},
+		{
+			"file": "/C/Users/takumi/Dropbox/研究室/卒業研究/あれこれ.txt",
+			"settings":
+			{
+				"buffer_size": 2332,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/takumi/Dropbox/研究室/卒業研究/データベースについて.txt",
+			"settings":
+			{
+				"buffer_size": 245,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/takumi/Desktop/kut/kut-paper-usage.tex",
+			"settings":
+			{
+				"buffer_size": 15301,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/takumi/Dropbox/研究室/卒業研究/用語集.txt",
+			"settings":
+			{
+				"buffer_size": 878,
+				"line_ending": "Windows",
+				"name": "用語集"
+			}
+		},
+		{
+			"contents": "@echo off\n\nREM 0:字幕なし 1:字幕あり\nset /a subtitle=0\nREM FPS:倍精度でok\nset fps=23.98\nREM 0:チャプター情報なし 1:チャプター情報あり\nset /a chapter=0\nREM 音声の形式がaacかどうか\nREM 0:other 1:aac\nset /a isaac=1\n\nREM mkvextract.exeのパス\nset mkvextract=\"D:\\Documents\\ソフトウェア\\動画とか\\MKV分解 MP4構築\\mkvtoolnix\\mkvextract.exe\"\nREM mp4box.exeのパス\nset mp4box=\"D:\\Documents\\ソフトウェア\\動画とか\\MKV分解 MP4構築\\Yamb-2.1.0.0_beta2\\MP4Box.exe\"\nREM flac.exeのパス\nset flac=\"D:\\Documents\\ソフトウェア\\音楽関係(変換・プレイヤー)\\flac・tak変換\\bin\\flac.exe\"\nREM qtaacenc.exeのパス\nset qtaacenc=\"D:\\Documents\\ソフトウェア\\動画とか\\xrecode II\\qtaacenc.exe\"\n\nif \"%~1\"==\"\" (\n    echo \"1つ目の引数は入力ファイルを指定してください。\"\n    pause\n    exit 1\n)\n\n:loopstart\n\necho \"変換開始: %~nx1\"\n\nset input=%~f1\nset ipath=%~dp1\nset iname=%~n1\n\nif %isaac%==1 (\n    set ext=aac\n) else (\n    set ext=flac\n)\n\nif %subtitle%==1 (\n	REM 字幕付きで抽出\n	%mkvextract% tracks \"%input%\" 1:\"%ipath%%iname%.h264\" 2:\"%ipath%%iname%.%ext%\" 3:\"%ipath%%iname%.ass\"\n) else (\n	REM 字幕なしで抽出\n	%mkvextract% tracks \"%input%\" 3:\"%ipath%%iname%.h264\" 1:\"%ipath%%iname%.%ext%\"\n)\n\nif not \"%ERRORLEVEL%\"==\"0\" (\n    echo \"Extract failed: %~nx1\"\n    goto loopend\n)\n\nREM flacからaacに変換\nif %isaac%==0 (\n    REM flac以外にどう対応するか\n    %flac% -c -d -s \"%ipath%%iname%.%ext%\" | %qtaacenc% --tvbr 60 --normal - \"%ipath%%iname%.aac\"\n)\n\nif not \"%ERRORLEVEL%\"==\"0\" (\n    echo \"Audio convert failed: %iname%.%ext%\"\n    goto loopend\n)\n\nif %chapter%==1 (\n	REM チャプター情報取り出し\n	%mkvextract% chapters \"%input%\" --redirect-output \"%ipath%%iname%.txt\" --simple\n\n	if not \"%ERRORLEVEL%\"==\"0\" (\n        	echo \"Chapter extract failed: %iname%.txt\"\n		goto loopend\n	)\n\n	REM MP4に統合\n	%mp4box% -fps %fps% -chap \"%ipath%%iname%.txt\" -add \"%ipath%%iname%.h264\" -add \"%ipath%%iname%.aac\" -new \"%ipath%%iname%.mp4\"\n) else (\n	REM MP4に統合\n	%mp4box% -fps %fps% -add \"%ipath%%iname%.h264\" -add \"%ipath%%iname%.aac\" -new \"%ipath%%iname%.mp4\"\n)\n\n:loopend\n\nrm \"%ipath%%iname%.h264\"\nrm \"%ipath%%iname%.aac\"\n\nif %isaac%==0 (\n    rm \"%ipath%%iname%.%ext%\"\n)\n\nif %chapter%==1 (\n    rm \"%ipath%%iname%.txt\"\n)\n\nshift\n\nif not \"%~1\"==\"\" (\n    goto loopstart\n)\n\nexit",
+			"file": "/D/Documents/ソフトウェア/動画とか/MKV分解 MP4構築/mkv2mp4.bat",
+			"file_size": 2307,
+			"file_write_time": 130839129221418753,
+			"settings":
+			{
+				"buffer_size": 2024,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "+ EBMLヘッダ\n|+ EBMLバージョン：1\n|+ EBML read version: 1\n|+ EBML最大ID長：4\n|+ EBML最大サイズ長：8\n|+ Doc type: matroska\n|+ Doc type version: 2\n|+ Doc type read version: 2\n+ セグメント、サイズ 2240727364\n|+ シークヘッダ (サブエントリはスキップされます)\n|+ EbmlVoid (サイズ：4044)\n|+ セグメント情報\n| + タイムコードスケール：1000000\n| + MUXに使用されたアプリケーション：libebml v1.2.2 + libmatroska v1.3.0\n| + 書き込みアプリケーション：mkvmerge v5.0.1 ('Es ist Sommer') built on Nov 21 2012 00:36:52\n| + 長さ: 1665.665s (00:27:45.665)\n| + 日付：Thu Jul 11 18:16:04 2013 UTC\n| + タイトル：[ReinForce] DATE A LIVE (BDRip 1920x1080 x264 FLAC)\n| + セグメントUID： 0x74 0xb6 0xa4 0x07 0x0b 0x45 0x54 0xab 0x91 0x6e 0x93 0x41 0xe2 0x0c 0x57 0x52\n|+ セグメントトラック\n| + トラック\n|  + トラック番号：1\n|  + トラックUID：339820857\n|  + トラックタイプ：video\n|  + Lacing flag: 0\n|  + 最小キャッシュ：1\n|  + コーデックID：V_MPEG4/ISO/AVC\n|  + CodecPrivate、長さ 43 (h.264プロファイル：High @L4.0)\n|  + デフォルトのフレーム持続期間：41.708ms (ビデオトラックの場合 23.976 fps)\n|  + 言語：und\n|  + ビデオトラック\n|   + ピクセル幅：1920\n|   + ピクセル高さ：1080\n|   + 表示幅：1920\n|   + 表示高さ：1080\n|  + コンテンツエンコーディング\n|   + コンテンツエンコーディング\n|    + コンテンツ圧縮\n|     + アルゴリズム：3 (ヘッダ削除)\n|     + 設定：長さ 1、データ： 0x00\n| + トラック\n|  + トラック番号：2\n|  + トラックUID：4071539030\n|  + トラックタイプ：audio\n|  + コーデックID：A_FLAC\n|  + CodecPrivate、長さ 8288\n|  + デフォルトのフレーム持続期間：96.000ms (ビデオトラックの場合 10.417 fps)\n|  + 言語：jpn\n|  + Audio track\n|   + サンプリング周波数：48000\n|   + チャンネル数：2\n|   + ビット深度：16\n|+ EbmlVoid (サイズ：1096)\n|+ クラスタ",
+			"settings":
+			{
+				"buffer_size": 1340,
+				"line_ending": "Windows",
+				"name": "+ EBMLヘッダ"
+			}
+		}
+	],
+	"build_system": "Packages/User/latex.sublime-build",
+	"command_palette":
+	{
+		"height": 115.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"add rep",
+				"Package Control: Add Repository"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package Control remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control li",
+				"Package Control: List Packages"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"package controll",
+				"Package Control: List Packages"
+			],
+			[
+				"set syntax ",
+				"Set Syntax: JSON"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/takumi/Dropbox/研究室/卒業研究/電車方式 擬似言語.txt",
+		"/C/Users/takumi/Dropbox/研究室/卒業研究/RFIDタグのID.txt",
+		"/C/Users/takumi/Dropbox/研究室/卒業研究/乗り物に乗った時の位置情報取得.txt",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/サーバ班/regist/registPage.pl",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/サーバ班/regist/registPicture.pl",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/サーバ班/regist/registText.pl",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/サーバ班/regist/registTPage.pl",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/サーバ班/regist/registTLocation.pl",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/サーバ班/regist/registLocation.pl",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/サーバ班/regist/registVoice.pl",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/サーバ班/regist/registLanguage.pl",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/サーバ班/regist/cleanup.pl",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/サーバ班/regist/language.txt",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/サーバ班/regist/location.txt",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/サーバ班/regist/page.txt",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/サーバ班/regist/tpage.txt",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/サーバ班/regist/tlocation.txt",
+		"/C/Users/takumi/.latexmkrc",
+		"/C/Users/takumi/AppData/Roaming/Sublime Text 2/Packages/User/latex.sublime-build",
+		"/C/Users/takumi/Dropbox/研究室/卒業研究/RFIDタグのID",
+		"/C/Users/takumi/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/takumi/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/takumi/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/takumi/AppData/Roaming/Sublime Text 2/Packages/Default/Insert space After.sublime-macro",
+		"/C/Users/takumi/Desktop/[EAC][120627]PSVゲーム「ペルソナ4 ザ・ゴールデン」オリジナル・サウンドトラック(wav+cue+log+png)/Atlus Sound Team - 「ペルソナ4 ザ・ゴールデン」オリジナル・サウンドトラック.cue",
+		"/C/Users/takumi/Desktop/[EAC][120627]PSVゲーム「ペルソナ4 ザ・ゴールデン」オリジナル・サウンドトラック(wav+cue+log+png)/cue.cue",
+		"/C/Users/takumi/Desktop/[EAC][120627]PSVゲーム「ペルソナ4 ザ・ゴールデン」オリジナル・サウンドトラック(wav+cue+log+png)/Atlus Sound Team - 「ペルソナ4 ザ・ゴールデン」オリジナル・サウンドトラック2.cue",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/内部設計書/サーバ班/サーバ設定.txt",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/内部設計書/サーバ班/AWS.txt",
+		"/C/Users/takumi/Desktop/新しいフォルダー/Pixiv_Downloader/pixivdownloader.py",
+		"/C/Users/takumi/Desktop/新しいフォルダー/Pixiv_Downloader/main.py",
+		"/C/Users/takumi/Desktop/新しいフォルダー/Pixiv_Downloader/directoryPOSIX",
+		"/C/Users/takumi/Desktop/新しいフォルダー/Pixiv_Downloader/direcotrywin",
+		"/C/Users/takumi/Desktop/新しいフォルダー/Pixiv_Downloader/const.py",
+		"/C/Users/takumi/Desktop/新しいフォルダー/Pixiv_Downloader/const.pyc",
+		"/C/Users/takumi/Desktop/新しいフォルダー/Pixiv_Downloader/tags",
+		"/C/Users/takumi/AppData/Local/Skype/Apps/login.js",
+		"/C/Users/takumi/AppData/Local/Skype/Apps/login.md5",
+		"/F/BaiduYunDownload/ﾄｧﾎ・莠ﾏｱ・.txt",
+		"/F/Game/[エウシュリー] 姫狩りダンジョンマイスター/姫狩攻略.txt",
+		"/F/Game/[エウシュリー] 姫狩りダンジョンマイスター/下载前先看这个.txt",
+		"/F/Game/[エウシュリー] 姫狩りダンジョンマイスター/WIKI地址.txt",
+		"/F/Game/[エウシュリー] 神採りアルケミーマイスター/三女主系统音/艾米莉亚(LOLI)/エミリッタ_システムサウンドについて.txt",
+		"/F/Game/[エウシュリー] 神採りアルケミーマイスター/2.0隐藏合成/说明.txt",
+		"/F/Game/[エウシュリー] 神採りアルケミーマイスター/预备.txt",
+		"/F/Game/[エウシュリー] 戦女神VERITA/REG说明.txt",
+		"/F/Game/[エウシュリー] 戦女神MEMORIA/下载前先看这个.txt",
+		"/F/BaiduYunDownload/地址&密码.txt",
+		"/F/BaiduYunDownload/使用说明&简介.txt",
+		"/C/Users/takumi/AppData/Local/Temp/Rar$DI02.787/ﾏﾂﾔﾘﾇｰﾏﾈｿｴﾕ篋・txt",
+		"/C/Users/takumi/Dropbox/研究室/卒業研究/あれこれ.txt",
+		"/C/Users/takumi/Dropbox/研究室/卒業研究/四国支部梗概内容.txt",
+		"/C/Users/takumi/Dropbox/Cloud 9（ソフトウェア工学）/内部設計書/サーバ班/やること",
+		"/C/Users/takumi/Desktop/dev/test.html",
+		"/C/Users/takumi/Dropbox/研究室/卒業研究/参考文献.txt",
+		"/C/Users/takumi/Dropbox/研究室/卒業研究/3回目.txt",
+		"/C/Users/takumi/Program/C/test/speed.c",
+		"/C/Users/takumi/Dropbox/研究室/卒業研究/2回目.txt",
+		"/C/Users/takumi/Desktop/hexdump-src/hexdump_org.c",
+		"/C/Users/takumi/Desktop/hexdump-src/hexdump.cpp",
+		"/C/Users/takumi/Desktop/hexdump-src/makefile",
+		"/C/Users/takumi/Desktop/hexdump-src/hexdump.c",
+		"/C/Users/takumi/Desktop/hexdump.c",
+		"/C/Users/takumi/_nya",
+		"/D/Documents/ソフトウェア/ネット/teraterm/raspi.ttl",
+		"/C/Users/takumi/AppData/Roaming/Sublime Text 2/Packages/Default/Add Line After.sublime-macro",
+		"/F/DATA/KOUJIEN.DRT",
+		"/C/Users/takumi/Desktop/mp3tag.csv",
+		"/C/Users/takumi/Dropbox/テキスト/pan.baidu.com.txt",
+		"/C/Users/takumi/Desktop/http",
+		"/C/Users/takumi/Desktop/ScancodeMap(Restore).reg",
+		"/C/Users/takumi/Desktop/Perl_code2.png",
+		"/Y/NTidy.txt",
+		"/C/Users/takumi/Desktop/CppBuilder/Include/windows.h",
+		"/F/ddclient",
+		"/C/Users/takumi/Program/wallpaper.c",
+		"/C/Users/takumi/Dropbox/ブランドリスト",
+		"/D/Game/[ゆずソフト] 天色＊アイルノーツ/キャラクターソング vol.1 step forward/YSCD-0027TAK.cue",
+		"/D/Game/[ゆずソフト] 天色＊アイルノーツ/キャラクターソング vol.1 step forward/YSCD-0027TAG.cue",
+		"/C/Users/takumi/Desktop/tpage.txt",
+		"/C/Users/takumi/Desktop/tlocation.txt",
+		"/C/Users/takumi/Desktop/box_connection_log",
+		"/C/Users/takumi/Dropbox/k",
+		"/C/Users/takumi/.ssh/id_rsa",
+		"/C/Users/takumi/Dropbox/anime",
+		"/C/Users/takumi/Desktop/html5_2dGame_quiz/js/phase8.js",
+		"/C/Users/takumi/Desktop/hextools-1.0/hexdump.c",
+		"/C/Users/takumi/Desktop/hextools-1.0/hexdump.rc",
+		"/C/Users/takumi/Desktop/hextools-1.0/hexdump.1",
+		"/D/Documents/ソフトウェア/動画とか/MKV分解 MP4構築/mkvtoolnix/data/magic",
+		"/C/Users/takumi/Desktop/dl/[Inshuheki] Hanasaku Iroha 01 [HDTV][B61F1007].mkv",
+		"/C/Users/takumi/AppData/Local/gegl-0.2/plug-ins/Makefile",
+		"/C/Users/takumi/Desktop/extinguish_trapz/Extinguish_Trapz.txt",
+		"/C/Users/takumi/.ssh/id_rsa.cloud9",
+		"/C/Users/takumi/Desktop/test/index.html",
+		"/C/Users/takumi/Desktop/test/script.js",
+		"/C/Users/takumi/Desktop/test/dummy.js",
+		"/C/Users/takumi/Desktop/[090911] [EUMU-003] 姫狩りダンジョンマイスター サウンドコレクション/CDImage.cue",
+		"/C/Users/takumi/Desktop/[090911] [EUMU-003] 姫狩りダンジョンマイスター サウンドコレクション/CDImage.ape - コピー.cue",
+		"/C/Users/takumi/Desktop/[090911] [EUMU-003] 姫狩りダンジョンマイスター サウンドコレクション/CDImage.ape.cue",
+		"/C/Users/takumi/Desktop/Documents/Game.txt",
+		"/C/Users/takumi/Desktop/Documents/ideas.txt",
+		"/C/Users/takumi/Desktop/source4/css/button1.css",
+		"/C/Users/takumi/Desktop/source4/css/button.css",
+		"/C/Users/takumi/Desktop/source4/css/voiceEdit.css",
+		"/C/Users/takumi/Desktop/source4/css/mycss.css",
+		"/C/Users/takumi/Desktop/source4/css/top.css",
+		"/C/Users/takumi/Desktop/source4/css/languageEdit.css",
+		"/C/Users/takumi/Desktop/source4/css/InformationEdit.css",
+		"/C/Users/takumi/Desktop/source4/css/button5.css",
+		"/C/Users/takumi/Desktop/source4/css/button4.css",
+		"/C/Users/takumi/Desktop/source4/css/button3.css",
+		"/C/Users/takumi/Desktop/source4/css/button2.css",
+		"/C/Users/takumi/Desktop/source4/css/main.css",
+		"/C/Users/takumi/Desktop/test/style.css",
+		"/C/Users/takumi/Desktop/source4/js/formatter.js",
+		"/C/Users/takumi/Desktop/source4/Info_edit_modal.html",
+		"/C/Users/takumi/Dropbox/就職/OpenSE.txt",
+		"/C/Users/takumi/Dropbox/就職/Colopl_questions.txt",
+		"/C/Users/takumi/Desktop/source4/js/edit.js",
+		"/C/Users/takumi/Desktop/source4/js/IndomationSwap.js",
+		"/C/Users/takumi/Desktop/source4/js/InformationEdit.js",
+		"/C/Users/takumi/Desktop/source4/js/InformationSwap.js",
+		"/C/Users/takumi/Desktop/source4/js/languageCreateTable.js",
+		"/C/Users/takumi/Desktop/source4/js/modal.js",
+		"/C/Users/takumi/Desktop/source4/js/pictureCreateTable.js",
+		"/C/Users/takumi/Desktop/source4/js/preview.js",
+		"/C/Users/takumi/Desktop/source4/js/swap.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\takumi\\regist\\Lan003,C:\\Users\\takumi\\regist\\Lan004,*.txt",
+			"C:\\Users\\takumi\\regist\\Lan003,C:\\Users\\takumi\\regist\\Lan004",
+			"C:\\Users\\takumi\\regist\\Lan003,C:\\Users\\takumi\\regist\\Lan004,*.txt",
+			"Z:\\",
+			"\\Z\\\\*.html",
+			"\\\\Z\\*.html",
+			"Z:\\*.html",
+			"Z:\\",
+			"Z:\\cgi-bin,-dbaccess.cgi",
+			"Z:\\cgi-bin,-dbacceess.cgi",
+			"Z:\\cgi-bin,-*.txt",
+			"Z:\\cgi-bin",
+			"/Z\\:/cgi-bin/*",
+			"Z:/cgi-bin/*",
+			"cgi-bin/*",
+			"サーバ班/*",
+			"utf/*",
+			"",
+			"iir.S",
+			"main.tex",
+			"2-16.tex",
+			"C:\\Users\\takumi\\Desktop\\crt0.S",
+			"crt0.S",
+			"2-13.tex",
+			"2-5.tex",
+			"*-*.tex",
+			"*.tex",
+			"./*.tex",
+			"*.tex",
+			"C:\\Users\\takumi\\Dropbox\\課題\\情報学群実験2\\lego\\report\\*.tex",
+			"C:\\Users\\takumi\\Dropbox\\課題\\情報学群実験2\\lego\\",
+			"1.txt",
+			"Playlist",
+			"Makefile",
+			".",
+			"*",
+			".",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    ",
+			" ",
+			"\\d\\d：",
+			"\\n",
+			"\\<li\\>",
+			"<li>",
+			"^(.+?);.+$",
+			"^(.+?);",
+			"^(.+?);.+$",
+			"^(.*);.*$",
+			"(.*);.*",
+			"(*);*",
+			"\"",
+			"）",
+			"（",
+			"　",
+			"　　",
+			"parent",
+			";",
+			",",
+			"<br />",
+			"amp;",
+			"\\]",
+			"\\[",
+			"[",
+			" +",
+			"^(?! ).*\\n",
+			"eng",
+			"ath",
+			"exit",
+			"\\)\\{",
+			"){",
+			";(?![\\ \\n])",
+			",(?!\\ )",
+			"flac",
+			"&nbsp;",
+			"　",
+			"<br>",
+			"¥¨¥¦¥·¥å¥ê",
+			"¿—Šª¤è¤¾¤é",
+			":",
+			"fadeLayer.style.\n",
+			"createElement",
+			"    xhr = XMLHttpRequestCreate();",
+			"remote_av",
+			" +\\d:\\d\\d",
+			" $",
+			"　",
+			"<br />",
+			" $",
+			"<br />",
+			"　",
+			"<br />",
+			"　",
+			"<br />",
+			"onActivityResult",
+			"DURATION",
+			"REQUEST_DISCOVERABLE_BT",
+			"REQUEST_ENABLE_BT",
+			"turnOn",
+			"mActivity",
+			"　",
+			"homeuri",
+			"0x7f0a0011",
+			"，",
+			"[\\n\\t]",
+			"\\n",
+			" {2,}",
+			"　",
+			"　+",
+			"　",
+			"龍河洞是石灰岩山體經過長時間雨水及地下水的侵蝕作用，自然形成的鐘乳洞。洞窟分為三個主洞和許多分洞，總長度實際能夠達到四千米。我們向大家介紹的是其中的東主洞約一千米左右的路線，出口與入口的垂直距離為八十米左右，位於半山腰位置。在出口附近，還保存有約兩千年前古代人在洞穴內生活的痕跡。到達出口大概需要30分鐘左右，下面依次向大家介紹這一路線的景點。",
+			"insert",
+			"）",
+			")",
+			" ?[(（].+",
+			")",
+			" ?\\(.+",
+			" \\(.+",
+			" \\([.()]+$",
+			" ?\\(.+",
+			" ?\\(.+\\)",
+			"（",
+			"(",
+			"）",
+			")",
+			"）",
+			")",
+			"）",
+			"（",
+			"256",
+			"128",
+			"TLocation",
+			"0",
+			"ctrl\\+shift\\+0",
+			"LangugeID",
+			"vachar",
+			"Tes",
+			"(.+)",
+			",|,(?=/)",
+			"(.+)",
+			",|,(?=/)",
+			"(.+)",
+			",|,(?=/)",
+			"(.+)",
+			",|,(?=/)",
+			"(.+)",
+			",|,(?=/)",
+			"(.+)",
+			",|,(?=/)",
+			"(.+)",
+			",|,(?=/)",
+			"(.+)",
+			",",
+			",/",
+			"(.+)",
+			",",
+			"(.+)",
+			",",
+			",/",
+			"(.+)",
+			",/",
+			",",
+			"(.+)",
+			",",
+			"(.+)",
+			"^(.+)$",
+			"(.+)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\t",
+			"",
+			"\\n",
+			"",
+			"\\n<li>\\n",
+			"\\n\\<li\\>\\n",
+			"\\n<li>\\n",
+			"$1",
+			"$1\n$1",
+			"'",
+			")",
+			"(",
+			" ",
+			"\\t",
+			";\\n",
+			"",
+			"\\\\]",
+			"\\\\[",
+			"\\[",
+			"",
+			"0",
+			"\\) \\{",
+			") {",
+			"; ",
+			", ",
+			" ",
+			"\\n",
+			"Eushully",
+			"オリヒメヨゾラ",
+			"",
+			" ",
+			"\\n",
+			"",
+			"\\n",
+			" ",
+			"\\n",
+			" ",
+			"\\n",
+			"、",
+			"",
+			")",
+			"(",
+			"insert into Text values (\"\\1\");",
+			"\",\"",
+			"insert into Page values (\"\\1\");",
+			"\",\"",
+			"insert into Page values (\"\\1\");",
+			"\",\"",
+			"insert into Text values (\"\\1\");",
+			"\",\"",
+			"insert into Picture values (\"\\1\");",
+			"\",\"",
+			"insert into Location values (\"\\1\");",
+			"\",\"",
+			"insert into Voice values (\"\\1\");",
+			"\",\"",
+			"insert into Voice values (\"\\1\");",
+			"\",\"",
+			"\",\"/",
+			"insert into Location values (\"\\1\");",
+			"\",\"",
+			"insert into Picture values (\"\\1\");",
+			"\",\"",
+			"\",\"/",
+			"insert into Text values (\"\\1\");",
+			"\",\"/",
+			"\",\"",
+			"insert into Page values (\"\\1\");",
+			"\",\"",
+			"insert into Picture values (\"\\1\");",
+			"insert into Picture values (\\1);",
+			"\",\"",
+			"\"\\1\"",
+			"\\1\"",
+			"\\\"\\1\\\"",
+			"\"\\1\"",
+			"\", \"",
+			"",
+			"// ",
+			" ",
+			"    ",
+			"\\1 = $",
+			"\\nmy",
+			"\\n<",
+			"Tes",
+			"insert into Text values \\(\\1\\);",
+			" ",
+			"\\1\"",
+			"\"\\1",
+			"\", \"",
+			" ",
+			"\\1",
+			"printHeader;\\n\\nmy $buf;",
+			"&super",
+			"$buf = $buf . ",
+			"The file path recorded, but the file was not exist.",
+			"Success!",
+			"E102",
+			"\", \\{",
+			"\", \"",
+			"lang",
+			"    ",
+			" ",
+			"\\t\\t&\\\\\\\\\\\\hline\\n",
+			"\\n",
+			"",
+			"\\1",
+			"expr2.val",
+			"isTrue =",
+			"expr1.val",
+			"n",
+			"transit",
+			"\\\\item $\\\\underline{\\1}$\\n",
+			"\\\\item $\\\\underline{\\1}$\\n\n\\\\item $\\\\underline{\\1}$\\n",
+			"\\\\item $\\\\underline{\\1}$\\n",
+			"\\\\item $\\underline{\\1}$\\n",
+			"\\(\\)]",
+			"メソッド",
+			"",
+			"case",
+			"case \\1:\nbreak;",
+			"",
+			"\\(\\(byte\\)",
+			"short",
+			"\\(\\(short\\)",
+			"",
+			"\\1\\(\\2),",
+			"\\1\\t\\t| \\2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/takumi/Dropbox/anime",
+					"settings":
+					{
+						"buffer_size": 2614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1523,
+								1523
+							]
+						],
+						"settings":
+						{
+							"is_preview": true,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 280.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/takumi/Dropbox/Program/stub.cpp",
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"is_preview": true,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 1187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1187,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Norton Remove Tool",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/takumi/Dropbox/Program/Tlang言語仕様.txt",
+					"settings":
+					{
+						"buffer_size": 266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Tlang言語仕様",
+							"is_preview": true,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/takumi/Dropbox/研究室/卒業研究/あれこれ.txt",
+					"settings":
+					{
+						"buffer_size": 2332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1886,
+								1886
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 242.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/takumi/Dropbox/研究室/卒業研究/データベースについて.txt",
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/takumi/Desktop/kut/kut-paper-usage.tex",
+					"settings":
+					{
+						"buffer_size": 15301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15266,
+								15266
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"origin_encoding": "UTF-8-SIG",
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2291.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/takumi/Dropbox/研究室/卒業研究/用語集.txt",
+					"settings":
+					{
+						"buffer_size": 878,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								791,
+								791
+							]
+						],
+						"settings":
+						{
+							"auto_name": "用語集",
+							"is_preview": true,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/D/Documents/ソフトウェア/動画とか/MKV分解 MP4構築/mkv2mp4.bat",
+					"settings":
+					{
+						"buffer_size": 2024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								947,
+								947
+							]
+						],
+						"settings":
+						{
+							"in_converting": true,
+							"is_preview": true,
+							"origin_encoding": "SHIFT_JIS",
+							"revert_to_scratch": true,
+							"syntax": "Packages/Batch File/Batch File.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 40.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"settings":
+					{
+						"buffer_size": 1340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1340,
+								1340
+							]
+						],
+						"settings":
+						{
+							"auto_name": "+ EBMLヘッダ",
+							"in_converting": true,
+							"origin_encoding": "UTF-8-SIG",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 156.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/takumi/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/takumi/Dropbox/Program/WebRTC_Drawing/drawing.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[\begin{table}[${1:htb}]
+	\begin{center}
+		\caption{${2:caption here}}
+		\label{${3:tab:tablename}}
+		\begin{tabular}{${4:l|cc}}\hline
+			$0 & & \\\\\\hline
+		\end{tabular}
+	\end{center}
+\end{table}
+]]></content>
+	<tabTrigger>table</tabTrigger>
+	<scope>text.tex.latex</scope>
+	<description>Table</description>
+</snippet>

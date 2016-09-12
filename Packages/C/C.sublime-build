@@ -1,0 +1,20 @@
+{
+    "cmd" : ["bcc32.exe", "$file", "-e${file_base_name}.exe"],
+    "shell":false,
+    "selector" : "source.c",
+    "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+    "working_dir": "${file_path}",
+    "encoding": "cp932",
+
+    "variants":
+    [
+        {
+            "name": "Run",
+            "cmd": ["${file_base_name}.exe"]
+        },
+        {
+            "name": "Clean",
+            "cmd": ["rm.exe", "*.obj", "*.tds"]
+        }
+    ]
+}
